@@ -1,0 +1,8 @@
+{
+  "command.offlineskins.list": "Lists all available offline skins.",
+  "command.offlineskins.change": "Change the active skin to a PNG name.",
+  "command.offlineskins.default": "Set default model to alex or steve.",
+  "message.offlineskins.no_skins": "No skins found.",
+  "message.offlineskins.changed": "Skin changed.",
+  "message.offlineskins.set_default": "Default model set."
+}

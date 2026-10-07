@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "offline-skins",
+  "version": "2.7.0",
+  "name": "Offline Skins",
+  "description": "Use local PNG files as your player skin client-side.",
+  "authors": [ "hindustani_gamer_fardin" ],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.hindustani_gamer_fardin.offline_skins.OfflineSkinsClient"
+    ]
+  },
+  "mixins": [
+    "mixins.offline_skins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "fabric-api": ">=0.160.5+26.3",
+    "minecraft": "~26.3"
+  }
+}
