@@ -1,6 +1,6 @@
 # Tauri + React + Typescript
 
-This template should help get you started developing with Tauri, React and Typescript in Vite.
+Volume Launcher is a modern, lightweight Minecraft launcher created by Rudra P. Built with Tauri, React, TypeScript, and Rust, it provides a clean desktop experience for managing Minecraft versions, accounts, instances, mods, Java runtimes, and game settings, while keeping everything fast, simple, and locally focused.
 
 ## Recommended IDE Setup
 
